@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: snapurl-backend
+    env: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    envVars:
+      - key: MONGODB_URI
+        value: mongodb+srv://uniquevijay0208:lrnURwoFJzmkjtpO@cluster0.sheut5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      - key: JWT_SECRET
+        value: my_secret_key_vijay_kumar_0208
+      - key: PORT
+        value: 5000
+      - key: BASE_URL
+        value: https://snapurl-backend.onrender.com
+      - key: CORS_ORIGIN
+        value: https://snapurl.netlify.app 

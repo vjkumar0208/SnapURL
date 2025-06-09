@@ -1,0 +1,27 @@
+{
+  "name": "shortify",
+  "version": "1.0.0",
+  "description": "URL Shortener with QR Code Generator",
+  "scripts": {
+    "start": "node backend/index.js",
+    "build": "cd backend && npm install"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nanoid": "^3.3.4",
+    "qrcode": "^1.5.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjkumar0208/SnapURL.git"
+  },
+  "author": "Vijay Kumar",
+  "license": "MIT"
+} 
