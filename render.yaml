@@ -14,4 +14,4 @@ services:
       - key: BASE_URL
         value: https://snapurl-backend.onrender.com
       - key: CORS_ORIGIN
-        value: https://snapurl.netlify.app 
+        value: https://snapurl1-0208.netlify.app 
