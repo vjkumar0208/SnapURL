@@ -5,8 +5,9 @@
   <p><strong>Transform long URLs into short, shareable links with QR codes</strong></p>
 </div>
 
-#Demo video-https://drive.google.com/file/d/1sJCn9frsVGL86nwgPBo9rUFwBieAx6EJ/view?usp=sharing
-#Demo link-https://snapurl-0208.netlify.app/
+#Demo video-https://drive.google.com/file/d/1sJCn9frsVGL86nwgPBo9rUFwBieAx6EJ/view?usp=sharing.
+
+#Live link-https://snapurl-0208.netlify.app/
 
 ## 🎯 Usage & Features
 
