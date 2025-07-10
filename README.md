@@ -5,6 +5,9 @@
   <p><strong>Transform long URLs into short, shareable links with QR codes</strong></p>
 </div>
 
+#Demo video-https://drive.google.com/file/d/1sJCn9frsVGL86nwgPBo9rUFwBieAx6EJ/view?usp=sharing
+#Demo link-https://snapurl-0208.netlify.app/
+
 ## 🎯 Usage & Features
 
 ### 1. Shorten URLs & Generate QR Codes
@@ -59,6 +62,4 @@
 - Vijay Kumar
 - GitHub: [@vjkumar0208](https://github.com/vjkumar0208)
 
-## 🙏 Acknowledgments
 
-Special thanks to all contributors and the open-source community for making this project possible. 
